@@ -7,7 +7,11 @@
 Console.WriteLine("ВВедите число");
 int num = Convert.ToInt32(Console.ReadLine());
 
+if ((num >99) && (num < 1000))
+{
+    int result = num%100/10;
+    Console.WriteLine(result);
+}
 
-int result = num%100/10;
 
-Console.WriteLine(result);
+
