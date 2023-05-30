@@ -1,0 +1,15 @@
+/Users/LukashinD/Desktop/Новая папка/zadanie13/obj/Debug/net6.0/zadanie13.csproj.AssemblyReference.cache
+/Users/LukashinD/Desktop/Новая папка/zadanie13/obj/Debug/net6.0/zadanie13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/LukashinD/Desktop/Новая папка/zadanie13/obj/Debug/net6.0/zadanie13.AssemblyInfoInputs.cache
+/Users/LukashinD/Desktop/Новая папка/zadanie13/obj/Debug/net6.0/zadanie13.AssemblyInfo.cs
+/Users/LukashinD/Desktop/Новая папка/zadanie13/obj/Debug/net6.0/zadanie13.csproj.CoreCompileInputs.cache
+/Users/LukashinD/Desktop/Новая папка/zadanie13/bin/Debug/net6.0/zadanie13
+/Users/LukashinD/Desktop/Новая папка/zadanie13/bin/Debug/net6.0/zadanie13.deps.json
+/Users/LukashinD/Desktop/Новая папка/zadanie13/bin/Debug/net6.0/zadanie13.runtimeconfig.json
+/Users/LukashinD/Desktop/Новая папка/zadanie13/bin/Debug/net6.0/zadanie13.dll
+/Users/LukashinD/Desktop/Новая папка/zadanie13/bin/Debug/net6.0/zadanie13.pdb
+/Users/LukashinD/Desktop/Новая папка/zadanie13/obj/Debug/net6.0/zadanie13.dll
+/Users/LukashinD/Desktop/Новая папка/zadanie13/obj/Debug/net6.0/refint/zadanie13.dll
+/Users/LukashinD/Desktop/Новая папка/zadanie13/obj/Debug/net6.0/zadanie13.pdb
+/Users/LukashinD/Desktop/Новая папка/zadanie13/obj/Debug/net6.0/zadanie13.genruntimeconfig.cache
+/Users/LukashinD/Desktop/Новая папка/zadanie13/obj/Debug/net6.0/ref/zadanie13.dll
